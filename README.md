@@ -1,3 +1,3 @@
 # Data University Frontend
 
-# React Frontend for Data University
+## React Frontend for Data University
